@@ -1,0 +1,19 @@
+{
+    "url": "{
+    "url": "https://raw.githubusercontent.com/uvor3n/swaggerXSS/main/2024.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/uvor3n/swaggerXSS/main/2024.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/uvor3n/swaggerXSS/main/2024.yaml",
+        "name": "Foo2"
+    }]
+}",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/uvor3n/swaggerXSS/main/2024.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/uvor3n/swaggerXSS/main/2024.yaml",
+        "name": "Foo2"
+    }]
+}
